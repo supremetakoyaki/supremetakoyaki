@@ -9,7 +9,9 @@ My strongest language is C#, and a lot of my projects will be in that language. 
 I am also pretty familiar with Python, C and Java.
 I am mostly into video game reverse engineering, ROM hacking, save editing and other related stuff! 
 
-My most successful project right now: [The TWEWY Final Remix & NEO:TWEWY save editor, titled ***Scramble***](https://github.com/supremetakoyaki/Scramble)
+Some projects I've been working on lately:
+- [Scramble](https://github.com/supremetakoyaki/Scramble), a Neo: The World Ends with You and The World Ends with You -Final Remix- save editor.
+- [Aogami](https://github.com/supremetakoyaki/Aogami), a Shin Megami Tensei V save editor.
 
 ### How to reach me
 I am not available to reply sometimes, but please feel free to follow / add me:
